@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+brief.txt
+*.pem
+*.key
+.DS_Store
